@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 flutter run
 ```
 
-# How to Build for native android (APK)
+## How to Build for native android (APK)
 ```
 flutter build apk
 ```
